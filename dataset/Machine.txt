@@ -1,0 +1,15 @@
+Machine                                                     
+SizeOfOptionalHeader                                       
+Characteristics  
+ImageBase                                                                                        
+MajorOperatingSystemVersion                                   
+MajorSubsystemVersion
+Subsystem                                                    
+DllCharacteristics                                         
+SizeOfStackReserve                                      
+SectionsMinEntropy                                 
+SectionsMaxEntropy                                    
+ResourcesMinEntropy                                  
+ResourcesMaxEntropy                                  
+VersionInformationSize                                   
+                                         
